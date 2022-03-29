@@ -13,6 +13,7 @@ I'm Oguz. I am Java and Machine Learning Developer. I love to research new thing
 <code><a target="_blank"><img height="60" src="https://miro.medium.com/max/700/1*-uckV8DOh3l0bCvqZ73zYg.png"></a></code>
 <code><a target="_blank"><img height="60" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"></a></code>
 <code><a target="_blank"><img height="60" src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png"></a></code>
+<code><a target="_blank"><img height="60" src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png"></a></code>
 
 <br/>
 
